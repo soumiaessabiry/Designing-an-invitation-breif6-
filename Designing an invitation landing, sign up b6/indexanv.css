@@ -1,0 +1,697 @@
+*{
+   
+    margin: 10px 30px;
+    text-decoration: none;
+    list-style: none;
+
+}
+body{
+    font-family: 'Poppins', sans-serif; 
+  
+}
+/* HEDER*/
+nav{
+   height:80px; 
+   width:100%;
+
+}
+.btn{
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    width: 100%;
+    height: 100px;
+    padding: 0 20px;
+    outline: 0px;
+}
+label.logo{
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+    padding:0px 90px;
+    line-height: 30px;
+    
+}
+nav ul{
+    float:right;
+    margin-right:4Opx;
+
+}
+nav li {
+    display: inline-block;
+    margin: 0 10px;
+    line-height: 2px;
+    padding: 5px 40px;
+}
+nav a{
+    color: black;
+    font-size: 18px;
+    border-radius: 2px;
+}
+nav a:hover{
+background-color: yellowgreen ;
+}
+
+/* pour  backround 1*/
+.d1b1{
+    
+    background-color: black;
+    width: 100%;
+    height: 230px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+
+    line-height: 60px;
+    float: left;
+    width: 100%;
+    position: relative;
+    margin:30px;
+  
+    width: 1654px;
+
+    
+} 
+
+.dad1{
+    width: 48%;
+    line-height: 80px;
+    
+}
+
+.dad1 h1,h4{
+    color:white;
+    align-items: center;
+    font-size: 25px;
+    line-height: 40px;
+   
+    
+}
+.dad1 h4{
+    line-height: 37px;
+    font-size: 14px;
+
+}
+ h4 {
+    line-height: 20px;
+}
+/* pour input de backround 1*/
+.dad1 .sel1b1{
+    width:  390px;
+    height: 40px;
+    color: grey;
+    border-radius: 5px;
+}
+#rech span {
+    content: "\260C";
+  }
+/* pour submit de backround 1*/
+.dad1 .sub1b1{
+    width:  230px;
+    height: 40px;
+    color:white;
+    border-radius: 5px;
+    font-weight: bolder;
+    background: linear-gradient(to right,#f08e55,#A831A5);
+    border: none;
+}
+.dbd1{
+    width: 48%;
+    float: right;
+    position: absolute;
+    right: 0;
+    top: 0;
+    
+}
+.imgh{
+    width: 400px;
+    height:360px;
+   margin-top: -30px;
+   margin-left: 90px;
+}
+/* pour les image company d2*/
+.d2company{
+        
+        align-items: center;
+        justify-content: space-between;
+         margin:0 30px;
+        margin-top: 370px;
+        margin-bottom: 30px;
+        display: flex;
+        width: 100%;
+        height: 100px;
+       
+}
+.imrig{
+    position: relative;
+}
+/* pour les image left center reight  d2*/
+
+.d3get{
+    width: 100%;
+    height: 600px;
+    margin: auto 30px;
+    display: flex;
+    padding-top: 20px ;
+    padding-bottom: 20px ;
+    height: 618px;
+    width: 1662px;
+
+}
+.d3get-conter{
+
+    margin-left: 10px;
+    padding: 10px;
+    width: 500px;
+    height: 540px;
+   margin: 0px;
+}
+.CHECK_MARK {
+    content: "\2713";
+    height: 10px;
+    height: 15px;
+    color: white;
+    border-style:  solid ;
+    border-color: black;
+    border-radius: 100%;
+    background: linear-gradient(to right,#f08e55,#A831A5);
+    border:none ;
+  }
+  #argent{
+      background-color: yellow;
+      border-radius: 60%;
+      border:black;
+      outline-color: forestgreen;
+  }
+.sub1b2{
+    width:  300px;
+    height: 40px;
+    color:white;
+    border-radius: 5px;
+    font-weight: bolder;
+    background: linear-gradient(to right,#f08e55,#A831A5);
+    border: none;
+}
+
+
+.d3get-left img {
+    width: 600px;
+    height: 560px;
+    padding: 10px;
+  
+     width: 489px;    
+}
+.d3get-right img{
+    width: 600px;
+    height: 560px;
+    padding: 10px;
+
+    width: 489px;
+
+}
+
+.d3get-conter h2{
+    text-align: center;
+    color: black;
+    line-height:8px;
+    font-size: 24px;
+
+}
+.d3get-conter p, h2 {
+   padding: 20px 0;
+    font-size: 14px;
+}
+
+.d3get-conter input{
+    display: block;
+    margin: 30px  auto;
+}
+
+/*************************************************************our backound 2************************************************************/
+.d4b2{
+ 
+    background-color: black;
+    width: 100%;
+    height: 350px;
+    padding: 10px;
+    display: flex;
+    margin: 30px 30px;
+    
+} 
+.dad4{
+    width: 48%;
+    line-height:10px;
+    float: left;
+   
+    padding: 10px;
+    align-items: center;
+    
+}
+
+.dad4 h1{
+    color:white;
+    align-items: center;
+    font-size: 37px;
+    line-height: 35px;
+   
+}
+.dad4 h2{
+    color:white;
+    font-size: 18px;
+}
+ h2{
+    line-height: 20px;
+    padding-left: auto;
+}
+.coeur{
+        content: "\2764";
+        color: red;
+        font-size: 1.4em;
+      }
+.faite{
+    color:yellow;
+    font-size: 1.4em;
+}
+
+
+.CHECK_MARK_2{
+    content: "\2713" ;
+    font-size: 1.6em;
+    font-weight: bold;
+    color:black;
+    border-style:  solid ;
+    border-color: black;
+    border-radius: 100%;
+    background: white;
+    border:none ;
+    
+  }
+
+.dad4 .sub3b2{
+    width:  340px;
+    height: 55px;
+    color:black;
+    font-weight: bolder;
+    border-radius: 6px;
+    padding-left: 10px;
+  
+}
+
+.dbd4 img{
+    float: right;
+    position: relative;
+    width: 45%;
+    height: 500px;
+    bottom: 70px;
+    right: 100px;
+}
+.dbd4{
+    width: 48%;
+    width: 48%;
+    line-height: 80px;
+    float: left;
+    padding: 10px;
+    align-items: center;
+  
+}
+
+.dad4 .sub2b2{
+    width:  200px;
+    height: 55px;
+    color:white;
+    border-radius: 5px;
+    font-weight: bolder;
+    background: linear-gradient(to right,#f08e55,#A831A5);
+    border: none;
+    margin-left: -18px;
+}
+
+
+/***********************************************************pour grid*************************************************************************************/
+
+.gallery{
+   
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-template-rows: auto auto;
+    margin-top: 200px;
+    gap:20px;
+
+}
+
+
+.grid1{
+
+    grid-column: 1/2;
+    grid-row: 1/2;
+    width: 93%;
+    height: 80%;
+}
+.grid2{
+    
+    grid-column: 2/3;
+    grid-row: 1/3; 
+    width: 95%;
+    height: 93%;
+
+}
+.grid3{
+   
+    grid-column: 3/4;
+    grid-row: 1/2; 
+    width: 84%;
+    height: 95%;
+
+}
+.grid4{
+  
+    grid-column: 4/5;
+    grid-row: 1/2; 
+    width: 80%;
+    height: 74%;
+
+}
+
+.grid5{
+    grid-column: 1/2;
+    grid-row: 2/3; 
+    width: 80%;
+    height: 70%;
+   
+    
+
+    
+    
+
+}
+.grid6{
+    grid-column: 3/4;
+    grid-row: 2/3; 
+    width: 84%;
+    height: 95%;
+
+}
+.grid7{
+    grid-column: 4/5;
+    grid-row: 2/3; 
+    width: 75%;
+    height:95%;
+
+}
+/************* footer************/
+footer{
+width: 100%;
+
+}
+
+
+.foter {
+width: 100%;
+height: 300px;
+background-color: black;
+
+display: flex;
+
+
+
+}
+footer h5{
+color:white;
+line-height: 36px;
+padding: 10px;
+margin: 0 80px;
+margin-top: 20px;
+font-size:18px;
+align-items: center;
+d; 
+height: 200px;
+}
+
+.d5fh{
+    width: 45%;
+    margin-left: 0px;
+  float: left;
+  height: 250px;
+}
+.fa{
+    padding: 0px;
+    margin-left: -28px;
+}
+.gt{
+    font-weight: bolder;
+    
+
+   
+}
+
+ footer ul {
+  ; 
+     width: 100%;
+     align-items: center;
+     margin-right: 0px;
+
+}
+.d5fl a{
+   margin-right: 1px;
+    color: white;
+    font-size: 16px;
+    margin-left:-29px; 
+    
+    
+}
+.d5fl ul{
+   
+
+
+     
+     
+ }
+ .d5fl li:hover{
+    background-color: #0099cc; 
+
+
+ }
+
+.d5fl{
+    width: 55%;
+    display: flex;
+    justify-content: space-between;
+    
+  
+    margin-right: 20px;
+   float: right;
+   
+
+}
+.l1{
+    width: auto;
+    width: 14%;
+    line-height: 36px;
+     height: 230px;
+}
+.l2{
+    width: auto;
+    line-height: 36px;
+     height: 230px;
+}
+.l3{
+    width: auto;
+    padding-left: 1px;
+     height: 230px;
+     margin-right: 10px;
+
+}
+.l4{
+    width: auto;
+    line-height: 36px;
+   
+}
+
+@media only screen and (min-width: 700px) and (max-width: 1000px) {
+
+    .dbd1{
+        display: none;
+    }
+
+    .dad1 {
+        width: 100%;
+        line-height: 50px;
+    }
+
+    .d2company {
+        width: 100%;
+        flex-wrap: wrap;
+        display: flex;
+        height: auto;
+        padding: 40px;
+        margin: 0;
+       
+    }
+
+    .d2company img{
+        width: 20%;
+        height: 30px;
+        margin: 10px 10px ;
+    }
+
+    .d3get{
+        width: 100%;
+        height: auto;
+        margin: 70px 0;
+        display: flex;
+        align-items: center;
+       
+    }
+
+    
+    .d3get-left , .d3get-right{
+        width: 70%;
+        height: 600px;
+        flex-direction: column;
+    }
+
+    .d3get-left img , .d3get-right img{
+        width: 100%;
+        height: 100%;
+    }
+
+
+    .d3get-conter{
+        width: 90%;
+        height: 100%;
+    }
+
+    .d3get-conter h2{
+        text-align: center;
+        margin: 50px 0;
+    }
+    .d3get-conter p{
+        margin: 20px 0;
+        font-size: 20px;
+    }
+
+    .d3get-conter input{
+        display: block;
+        margin: 30px  auto;
+    }
+
+
+}
+
+@media only screen and (max-width: 700px){
+    .label.logo{
+        padding-left: 0px;
+        margin-left: 0px;
+        margin-bottom: 0px;
+        margin-top: 0px;
+    }
+    
+    
+    nav ul{
+
+        margin: 30px 160px ;
+    }
+
+    .dad1 .sel1b1 {
+        width: 70%;
+        height: 40px;
+        color: grey;
+        border-radius: 5px;
+    }
+    .btn{
+    padding-left: 0px;
+    padding-right: 0px;
+    }
+
+
+    .d1b1 {
+        height: auto;
+        padding: 20px;
+        border: none;
+        width: 362px;
+        margin-top: 24px;
+        margin-bottom: 25px;
+       width: 323px;
+
+    }
+    .dbd1{
+        display: none;
+    }
+
+    .dad1 {
+        width: 100%;
+        line-height: 50px;
+    }
+
+    .d2company {
+        width: 100%;
+        flex-wrap: wrap;
+        display: flex;
+        height: auto;
+        padding: 20px;
+        margin: 0;
+    }
+
+    .d2company img{
+        width: 25%;
+        height: 30px;
+        margin: 10px 160px;
+
+    }
+    
+
+    
+    .d3get{
+        width: 100%;
+        height: auto;
+        margin: 100px 0;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    
+    .d3get-left , .d3get-right{
+        width: 100%;
+        height: 600px;
+    }
+
+    .d3get-left img , .d3get-right img{
+        width: 100%;
+        height: 100%;
+    }
+
+
+    .d3get-conter{
+        width: 100%;
+        height: 100%;
+    }
+
+    .d3get-conter h2{
+        text-align: center;
+        margin: 50px 0;
+    }
+    .d3get-conter p{
+        margin: 20px 0;
+        font-size: 20px;
+    }
+
+    .d3get-conter input{
+        display: block;
+        margin: 30px  auto;
+    
+    
+    
+    }
+
+
+
+
+
+}
+
+
+
+

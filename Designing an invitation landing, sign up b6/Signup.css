@@ -1,0 +1,138 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+}
+
+
+body{ 
+ background: linear-gradient(to right,#f08e55,#A831A5);
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.logo{
+    
+    padding-bottom: 3px;
+    margin-top: 0px;
+    width: 173px;
+    height: 23px;
+    font-weight: bolder;
+
+
+}
+a:hover{
+    background-color:#f08e55;
+}
+input 
+{
+  height: 50px;
+  width: 300px;
+  font-size: 1.2em;
+}
+.formulaire_de_sign{
+padding-left: 80px ;
+padding-right: 50px;
+padding-top: 40px;
+padding-bottom: 40px;
+border: 5px #471717 solid;
+border-radius: 25px;
+
+
+
+}
+.fsign{
+    width:  60%;
+    min-height: 96%;
+    background-color: #FFF7E1;
+    padding: 40px 89px;
+    margin-top: 36px;
+
+}
+.logt{
+    font-size: 2rem;
+    font-weight: 800px;
+    font-weight: bolder;
+    background-color: #471717;
+    color: white;
+    align-items: center;
+    padding-left: 117px;
+    margin-bottom: 20px;
+    margin-top: 0px;
+    width: 355px;
+    height: 53px;
+    padding-left: 117px;
+    padding-right: 117px;
+    border-radius: 35px;
+
+}
+.nom{
+    
+
+    align-items: center;
+    margin-bottom: 20px;
+    margin-top: 0px;
+    width: 175px;
+    border-radius: 35px;
+    height: 44px;
+    width: 227px;
+    border : 2px #2B2222;
+    display: block;
+
+}
+
+.email{
+    align-items: center;
+    margin-bottom: 20px;
+    margin-top: 0px;
+    width: 175px;
+    border-radius: 35px;
+    height: 44px;
+    width: 227px;
+    border : 2px #2B2222;
+    display: block;
+}
+.password{
+    
+
+    align-items: center;
+    margin-bottom: 20px;
+    margin-top: 0px;
+    width: 175px;
+    border-radius: 35px;
+    height: 44px;
+    width: 227px;
+    border : 2px #2B2222;
+    display: block;
+}
+
+.connexion{
+    align-items: center;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    width: 175px;
+    height: 44px;
+    width: 227px;
+    border : 2px #2B2222;
+   
+    
+}
+.lien{
+    font-weight: bolder;
+    padding-left: 20px;
+
+}
+.btn{
+    
+    height: 50px;
+    width: 100px;
+    background-color:#f0ae87 ;
+    font-weight: bolder;
+
+}}
